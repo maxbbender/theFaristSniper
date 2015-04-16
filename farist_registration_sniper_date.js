@@ -20,7 +20,7 @@
 //console.log(window.location.href);
 if(window.location.href == 'https://ssb.banner.marist.edu/PROD11G/bwskfreg.P_AltPin'){
     //enter the hour and minute of your registration. NOTE this is a 24 hour set up. So 8PM = 20 (12 + 8).
-    var registrationHour = 15;
+    var registrationHour = 7;
     
     //gets the current system hour and minute
     var currentDate = new Date();
